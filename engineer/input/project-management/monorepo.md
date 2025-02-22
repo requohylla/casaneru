@@ -1,0 +1,1 @@
+![](/images/project-management/monorepo_polyrepo.jpg)
