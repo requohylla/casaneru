@@ -1,6 +1,7 @@
 # 目次
 - [目次](#目次)
     - [はじめに](#はじめに)
+    - [読み方](#読み方)
     - [grok3 deepSearch使ってみた](#grok3-deepsearch使ってみた)
       - [gRPCの簡単な説明](#grpcの簡単な説明)
       - [REST APIとの違い](#rest-apiとの違い)
@@ -104,6 +105,9 @@
 gRPCは主にバックエンドのマイクロサービス間の通信に使用される<br>
 具体例として、eコマースプラットフォームでは、注文サービスが製品情報を取得するために製品サービスをgRPCで呼び出す。
 
+### 読み方
+gRPC（gRPC Remote Procedure Calls）<br>
+リモート プロシージャー コールズ
 
 ### grok3 deepSearch使ってみた
 
